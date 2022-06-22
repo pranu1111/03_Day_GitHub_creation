@@ -1,2 +1,2 @@
-# 03_Day_GitHub_creation
+# 02_Day_GitHub_creation
 GitHub Account Creation
